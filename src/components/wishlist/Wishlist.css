@@ -1,0 +1,13 @@
+.wishlist-container-main {
+    margin: 0 auto;
+    max-width: 960px;
+}
+
+.wishlist-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}

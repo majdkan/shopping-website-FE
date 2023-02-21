@@ -1,0 +1,22 @@
+.profile-container {
+
+    margin: 0 auto;
+    background: lightblue;
+    box-shadow: 4px 5px 5px -7px rgba(0,0,0,1);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+
+.profile-delete-btn {
+    background: green;
+    height: 2rem;
+    width: 15rem;
+    border-radius: 15px;
+    font-weight: 600;
+    color: black;
+    border: none;
+    
+}

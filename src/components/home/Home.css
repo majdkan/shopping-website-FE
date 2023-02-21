@@ -1,0 +1,21 @@
+.home-container{ 
+    background-color: gray;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.products-container {
+    background-color: beige;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.home-hello{
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 24px;
+}

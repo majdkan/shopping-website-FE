@@ -1,0 +1,25 @@
+.order-product{
+    width: 400px;
+    height: 70px;
+    background: #eeeeee;
+    margin-bottom: 10px;
+
+}
+
+.order-product img {
+    float: left;
+    width: 70px;
+    height: 70px;
+    margin-right: 5px;
+}
+
+.order-product-name {
+    font-size: 1rem;
+    margin-bottom: 5px;
+}
+
+.order-product-price {
+    color: #797979;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
